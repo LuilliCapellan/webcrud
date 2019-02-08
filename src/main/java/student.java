@@ -11,6 +11,10 @@ public class student {
         this.telefono = telefono;
     }
 
+    public student() {
+
+    }
+
     public int getMatricula() {
         return matricula;
     }
