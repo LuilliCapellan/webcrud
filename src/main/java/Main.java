@@ -105,7 +105,7 @@ public class Main {
 
         //Show
         get("/check/:matricula", (request, response) -> {
-            Template result = configuration.getTemplate("templates/checkEstudiante.ftl");
+            Template result = configuration.getTemplate("templates/showS.ftl");
             StringWriter stringWriter = new StringWriter();
 
             int matricula = Integer.parseInt(request.params("matricula"));
