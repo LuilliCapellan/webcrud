@@ -7,7 +7,7 @@
 
 </head>
 
-<body style="background-color: beige;">
+<body style="background-color: #FFFFFF;">
 
 <header >
     <h1 style="float: center; font-family: Arial;">Check estudiante</h1>

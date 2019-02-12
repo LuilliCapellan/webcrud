@@ -5,7 +5,7 @@
     <title style="float: center;">Modificar Estudiante</title>
 </head>
 
-<body style="background-color: beige;">
+<body style="background-color: #FFFFFF;">
 
 <header >
     <h1 style="font-family: Arial;">Modificar estudiante</h1>
@@ -14,7 +14,7 @@
 <nav >
     <div >
         <div >
-            <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
+            <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333333;">
                 <li style="float: left; font-family: Arial;">
                     <a  href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Inicio</a>
                 </li>

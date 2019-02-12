@@ -2,7 +2,7 @@
 <head>
     <title>Home</title>
 </head>
-<body style="background-color: beige;">
+<body style="background-color: #FFFFFF;">
 <h1 style="float: center; font-family: Arial">Practica 2</h1>
 <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
     <li style="float: left; font-family: Arial;"><a href="/"
@@ -16,7 +16,7 @@
             Estudiante</a></li>
 </ul>
 </br>
-<table border="2" style="background: black;" cellpadding="10">
+<table border="2" style="background: #003F91;" cellpadding="10">
     <thead>
     <tr>
         <th style="color: azure;">Matricula</th>
@@ -30,7 +30,7 @@
     </thead>
     <tbody>
     <#list lista as student>
-        <tr style="background: aqua; padding: 2px;">
+        <tr style="background: #FFFFFF; padding: 2px;">
             <td>${student.matricula?c} </td>
             <td>${student.nombre} </td>
             <td>${student.apellido} </td>

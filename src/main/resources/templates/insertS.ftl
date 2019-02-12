@@ -5,7 +5,7 @@
     <title style="float: center; ">Insertar Estudiante</title>
 </head>
 
-<body style="background-color: beige;">
+<body style="background-color: #FFFFFF;">
 <header >
     <h1 style="float: center; font-family: Arial;">Insertar estudiante</h1>
 </header>
