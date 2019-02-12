@@ -53,7 +53,7 @@
         </div>
 
         <div >
-            <label for="telefono">Teléfono</label>
+            <label for="telefono">Telefono</label>
             <input type="text"  id="telefono" name="telefono" value='${actual.telefono}' required>
         </div>
 
